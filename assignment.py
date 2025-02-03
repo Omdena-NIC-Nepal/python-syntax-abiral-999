@@ -1,4 +1,3 @@
-
 def format_string(name, age):
     """
     Create a formatted string using f-strings.
